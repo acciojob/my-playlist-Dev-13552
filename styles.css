@@ -19,3 +19,13 @@ a{
     text-decoration-line: none;
 	color: black;
 }
+.player_one{
+	background-color: white;
+	border-radius: 4px;
+	padding: 1px;
+}
+.player_two{
+	background-color: white;
+	border-radius: 4px;
+	padding: 1px;
+}
